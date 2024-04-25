@@ -11,22 +11,13 @@
             "id": "30870b97ec777922",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c1d156834cd71ede",
-            "type": "leaf",
-            "state": {
               "type": "database-plugin",
               "state": {
-                "file": "CJL/LitListDb.md"
+                "file": "CJL/LitList.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJL/LitListDb.md",
+                "file": "CJL/LitList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJL/LitListDb.md",
+                "file": "CJL/LitList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJL/LitListDb.md"
+                "file": "CJL/LitList.md"
               }
             }
           }
@@ -155,27 +146,25 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d019dea7676ded6a",
+  "active": "30870b97ec777922",
   "lastOpenFiles": [
-    "Materiály/Literatura/jama_a_kyvadlo.pdf",
-    "Materiály/Literatura/na_zapadni_fronte_klid.pdf",
-    "Materiály/Literatura/hobbit.pdf",
-    "Materiály/Literatura/farma_zvirat.pdf",
-    "Materiály/Literatura/krysar.pdf",
-    "Materiály/Literatura/kytice.pdf",
-    "Materiály/Literatura/maly_princ.pdf",
-    "Materiály/Literatura/bila_nemoc.pdf",
+    "CJL/LitList.md",
+    "Materiály/Literatura/ceske_nebe.pdf",
+    "Materiály/Literatura/spasitel.pdf",
+    "Materiály/Literatura/barva_z_kosmu.pdf",
+    "Materiály/Literatura/barva_z_kosmu.epub",
+    "Materiály/Literatura/ceske_nebe.doc",
+    "Materiály/Literatura/zaklinac.pdf",
+    "Materiály/Literatura/spasitel.epub",
+    "Materiály/Literatura/vysetrovani_ztraty_tridni_knihy.pdf",
+    "Materiály/Literatura/lakomec.pdf",
+    "Materiály/Literatura/velky_gatsby.pdf",
     "CJL/Díla/R.U.R..md",
     "CJL/Díla/Bílá Nemoc.md",
-    "CJL/LitListDb.md",
     "CJL/Díla/Krysař.md",
     "CJL/Druhy/Drama.md",
     "CJL/Autoří/Karel Čapek.md",
-    "CJL/LitList.md",
-    "Materiály/Literatura",
     "Materiály/Untitled.md",
-    "Materiály",
-    "Materiály/Literatura/rur.pdf",
     "CJL/Druhy/Poezie.md",
     "CJL/Druhy/Próza.md",
     "Untitled.md",
