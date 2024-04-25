@@ -8,27 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0900a2998a68d992",
+            "id": "de1a7d2f5cc71704",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJL/TMLN.md",
+                "file": "CJL/Období/Ztracená generace.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "de1a7d2f5cc71704",
+            "id": "b674ae85df5bf634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CJL/Autoří/H. P. Lovecraft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e70e362fa5efc01a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e4c30b1371fa2e3f",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "CJL/LitList.md"
+              }
+            }
+          },
+          {
+            "id": "4b81b216b98d456b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CJL/Období/Česká meziválečná literatura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d86d7a86803d221b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CJL/Timeline.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -57,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Book",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CJL/LitList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CJL/LitList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CJL/LitList.md"
+              }
             }
           }
         ]
@@ -153,13 +203,29 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "de1a7d2f5cc71704",
+  "active": "e4c30b1371fa2e3f",
   "lastOpenFiles": [
-    "CJL/TMLN.md",
-    "CJL/Díla/R.U.R..md",
-    "CJL/LitList.md",
-    "CJL/Díla/Zaklínač.md",
+    "CJL/Období/Česká meziválečná literatura.md",
     "CJL/Timeline.md",
+    "CJL/Směry/Renesance a Humanismus.md",
+    "CJL/Směry/Klasicismus.md",
+    "CJL/Směry/Realismus.md",
+    "CJL/Směry/Romantismus.md",
+    "CJL/LitList.md",
+    "CJL/Směry/Dekadence.md",
+    "CJL/Směry/Symbolismus.md",
+    "CJL/Období/Ztracená generace.md",
+    "CJL/Období/Anarchističtí buřiči.md",
+    "CJL/Autoří/Erich Maria Remarque.md",
+    "CJL/Směry/Pragmatismus.md",
+    "CJL/Směry/Surrealismus.md",
+    "CJL/Autoří/H. P. Lovecraft.md",
+    "Untitled",
+    "CJL/Období",
+    "CJL/Směry/Poetismus.md",
+    "CJL/Směry",
+    "CJL/Díla/R.U.R..md",
+    "CJL/Díla/Zaklínač.md",
     "CJL/Díla/České nebe.md",
     "CJL/Díla/Kytice.md",
     "CJL/Díla/Bílá nemoc.md",
@@ -168,28 +234,12 @@
     "CJL/Díla/Saturnin.md",
     "CJL/Díla/Ostře sledované vlaky.md",
     "CJL/Autoří/F. S. Fitzgerald.md",
-    "Drama.md",
-    "CJL/Autoří/William Shakespeare.md",
-    "CJL/Autoří/H. P. Lovecraft.md",
-    "CJL/Autoří/Molière.md",
-    "CJL/Autoří/Jo Nesbø.md",
-    "CJL/Autoří/Andrzej Sapkovski.md",
-    "CJL/Autoří/Zdeněk Jirotka.md",
-    "CJL/Autoří/Cimrmani (L. Smoljak).md",
-    "CJL/Autoří/Bohumil Hrabal.md",
-    "CJL/Autoří/J. R. R. Tolkien.md",
-    "CJL/Autoří/Edgar Allan Poe.md",
-    "CJL/Autoří/George Orwell.md",
-    "CJL/Autoří/Karel Jaromír Erben.md",
     "Materiály/Literatura/ceske_nebe.pdf",
     "Materiály/Literatura/spasitel.pdf",
     "Materiály/Literatura/barva_z_kosmu.pdf",
     "Materiály/Literatura/barva_z_kosmu.epub",
     "Materiály/Literatura/ceske_nebe.doc",
     "Materiály/Literatura/zaklinac.pdf",
-    "Materiály/Literatura/spasitel.epub",
-    "Materiály/Literatura/vysetrovani_ztraty_tridni_knihy.pdf",
-    "Materiály/Literatura/lakomec.pdf",
-    "Materiály/Literatura/velky_gatsby.pdf"
+    "Materiály/Literatura/spasitel.epub"
   ]
 }
