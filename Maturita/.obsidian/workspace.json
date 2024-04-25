@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6fc008f38dc79423",
+        "id": "6611fed9488cdf5e",
         "type": "tabs",
         "children": [
           {
-            "id": "30870b97ec777922",
+            "id": "ac5bc7d75593cbcd",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "CJL/LitList.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJL/LitList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJL/LitList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CJL/LitList.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +140,34 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "30870b97ec777922",
+  "active": "ac5bc7d75593cbcd",
   "lastOpenFiles": [
+    "CJL/Autoří/F. S. Fitzgerald.md",
     "CJL/LitList.md",
+    "CJL/Díla/R.U.R..md",
+    "Drama.md",
+    "CJL/Autoří/William Shakespeare.md",
+    "CJL/Autoří/H. P. Lovecraft.md",
+    "CJL/Autoří/Molière.md",
+    "CJL/Autoří/Jo Nesbø.md",
+    "CJL/Autoří/Andrzej Sapkovski.md",
+    "CJL/Autoří/Zdeněk Jirotka.md",
+    "CJL/Autoří/Cimrmani (L. Smoljak).md",
+    "CJL/Autoří/Bohumil Hrabal.md",
+    "CJL/Autoří/J. R. R. Tolkien.md",
+    "CJL/Autoří/Edgar Allan Poe.md",
+    "CJL/Autoří/George Orwell.md",
+    "CJL/Autoří/Karel Jaromír Erben.md",
+    "Untitled.md",
+    "CJL/Autoří/Viktor Dyk.md",
+    "CJL/Autoří/Erich Maria Remarque.md",
+    "CJL/Autoří/Antoine de Saint-Exupéry.md",
+    "CJL/Díla/Barva z kosmu.md",
+    "CJL/Díla/Podkoní a žák.md",
+    "CJL/Díla/Lakomec.md",
+    "CJL/Díla/Spasitel.md",
+    "CJL/Díla/Zaklínač.md",
+    "CJL/Díla/Saturnin.md",
     "Materiály/Literatura/ceske_nebe.pdf",
     "Materiály/Literatura/spasitel.pdf",
     "Materiály/Literatura/barva_z_kosmu.pdf",
@@ -158,21 +177,6 @@
     "Materiály/Literatura/spasitel.epub",
     "Materiály/Literatura/vysetrovani_ztraty_tridni_knihy.pdf",
     "Materiály/Literatura/lakomec.pdf",
-    "Materiály/Literatura/velky_gatsby.pdf",
-    "CJL/Díla/R.U.R..md",
-    "CJL/Díla/Bílá Nemoc.md",
-    "CJL/Díla/Krysař.md",
-    "CJL/Druhy/Drama.md",
-    "CJL/Autoří/Karel Čapek.md",
-    "Materiály/Untitled.md",
-    "CJL/Druhy/Poezie.md",
-    "CJL/Druhy/Próza.md",
-    "Untitled.md",
-    "CJL/Díla/Test.md",
-    "CJL/Autoři/capek.md",
-    "CJL/DB/Literatura.md",
-    "CJL/DB autori/Autori.md",
-    "CJL/DB/Autoři.md",
-    "Welcome.md"
+    "Materiály/Literatura/velky_gatsby.pdf"
   ]
 }

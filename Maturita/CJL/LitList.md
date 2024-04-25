@@ -14,13 +14,19 @@ columns:
     label: Nationality
     key: Nationality
     id: Nationality
-    position: 4
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 100
+    width: 96
     options:
       - { label: "🇨🇿", value: "🇨🇿", color: "hsl(0,0%,15%)"}
+      - { label: "🇺🇸", value: "🇺🇸", color: "hsl(0,0%,15%)"}
+      - { label: "🇬🇧", value: "🇬🇧", color: "hsl(0,0%,15%)"}
+      - { label: "🇫🇷", value: "🇫🇷", color: "hsl(0,0%,15%)"}
+      - { label: "🇩🇪", value: "🇩🇪", color: "hsl(0,0%,15%)"}
+      - { label: "🇳🇴", value: "🇳🇴", color: "hsl(0,0%,15%)"}
+      - { label: "🇵🇱", value: "🇵🇱", color: "hsl(0,0%,15%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -31,6 +37,7 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+      content_alignment: text-align-left
   Author:
     input: text
     accessorKey: Author
@@ -41,6 +48,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 204
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -50,6 +58,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      content_alignment: text-align-left
   File:
     input: text
     accessorKey: File
@@ -60,7 +69,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 151
+    width: 226
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -94,7 +103,7 @@ columns:
       persist_changes: false
       content_alignment: text-align-left
   Read:
-    input: tags
+    input: select
     accessorKey: Read
     label: Read
     key: Read
@@ -103,10 +112,13 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    isSorted: false
+    isSortedDesc: false
     options:
-      - { label: "Ago", value: "Ago", color: "hsl(38,75%,30%)"}
-      - { label: "Never", value: "Never", color: "hsl(0,0%,38%)"}
-      - { label: "Read", value: "Read", color: "hsl(132,47%,43%)"}
+      - { label: "Read", value: "Read", color: "hsl(121,41%,35%)"}
+      - { label: "Ago", value: "Ago", color: "hsl(47,100%,41%)"}
+      - { label: "Never", value: "Never", color: "hsl(0,0%,24%)"}
+      - { label: "Audio", value: "Audio", color: "hsl(76, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -117,6 +129,7 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+      content_alignment: text-align-left
   __file__:
     key: __file__
     id: __file__
@@ -129,7 +142,10 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: -1
+    sortIndex: 0
+    isSorted: true
+    isSortedDesc: false
+    width: 248
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -139,21 +155,22 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      content_alignment: text-align-left
   Druhy:
     input: select
     accessorKey: Druhy
     key: Druhy
     id: Druhy
     label: Druhy
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 100
+    width: 50
     options:
       - { label: "DR", value: "DR", color: "hsl(348,98%,25%)"}
-      - { label: "PR", value: "PR", color: "hsl(24,100%,45%)"}
-      - { label: "PO", value: "PO", color: "hsl(58,99%,72%)"}
+      - { label: "PR", value: "PR", color: "hsl(24,100%,30%)"}
+      - { label: "PO", value: "PO", color: "hsl(44,100%,35%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -164,6 +181,7 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
+      content_alignment: text-align-left
   Finished:
     input: checkbox
     accessorKey: Finished
@@ -202,7 +220,7 @@ config:
   source_destination_path: CJL/Díla
   row_templates_folder: CJL/Díla
   current_row_template: 
-  pagination_size: 10
+  pagination_size: 20
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /
