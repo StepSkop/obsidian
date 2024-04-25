@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6611fed9488cdf5e",
+        "id": "ac064d3d4592a59e",
         "type": "tabs",
         "children": [
           {
-            "id": "ac5bc7d75593cbcd",
+            "id": "0900a2998a68d992",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "CJL/TMLN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de1a7d2f5cc71704",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,11 +153,21 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "ac5bc7d75593cbcd",
+  "active": "de1a7d2f5cc71704",
   "lastOpenFiles": [
-    "CJL/Autoří/F. S. Fitzgerald.md",
-    "CJL/LitList.md",
+    "CJL/TMLN.md",
     "CJL/Díla/R.U.R..md",
+    "CJL/LitList.md",
+    "CJL/Díla/Zaklínač.md",
+    "CJL/Timeline.md",
+    "CJL/Díla/České nebe.md",
+    "CJL/Díla/Kytice.md",
+    "CJL/Díla/Bílá nemoc.md",
+    "CJL/Díla/Barva z kosmu.md",
+    "CJL/Díla/kkt.md",
+    "CJL/Díla/Saturnin.md",
+    "CJL/Díla/Ostře sledované vlaky.md",
+    "CJL/Autoří/F. S. Fitzgerald.md",
     "Drama.md",
     "CJL/Autoří/William Shakespeare.md",
     "CJL/Autoří/H. P. Lovecraft.md",
@@ -158,16 +181,6 @@
     "CJL/Autoří/Edgar Allan Poe.md",
     "CJL/Autoří/George Orwell.md",
     "CJL/Autoří/Karel Jaromír Erben.md",
-    "Untitled.md",
-    "CJL/Autoří/Viktor Dyk.md",
-    "CJL/Autoří/Erich Maria Remarque.md",
-    "CJL/Autoří/Antoine de Saint-Exupéry.md",
-    "CJL/Díla/Barva z kosmu.md",
-    "CJL/Díla/Podkoní a žák.md",
-    "CJL/Díla/Lakomec.md",
-    "CJL/Díla/Spasitel.md",
-    "CJL/Díla/Zaklínač.md",
-    "CJL/Díla/Saturnin.md",
     "Materiály/Literatura/ceske_nebe.pdf",
     "Materiály/Literatura/spasitel.pdf",
     "Materiály/Literatura/barva_z_kosmu.pdf",

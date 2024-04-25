@@ -27,6 +27,7 @@ columns:
       - { label: "🇩🇪", value: "🇩🇪", color: "hsl(0,0%,15%)"}
       - { label: "🇳🇴", value: "🇳🇴", color: "hsl(0,0%,15%)"}
       - { label: "🇵🇱", value: "🇵🇱", color: "hsl(0,0%,15%)"}
+      - { label: "[,🇨🇿]", value: "[,🇨🇿]", color: "hsl(194, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -119,6 +120,7 @@ columns:
       - { label: "Ago", value: "Ago", color: "hsl(47,100%,41%)"}
       - { label: "Never", value: "Never", color: "hsl(0,0%,24%)"}
       - { label: "Audio", value: "Audio", color: "hsl(76, 95%, 90%)"}
+      - { label: "[,Never]", value: "[,Never]", color: "hsl(179, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
