@@ -1,6 +1,6 @@
 ---
 Druhy: DR
-Read: Never
+Read: Read
 Nationality: 🇫🇷
 File: "![[lakomec.pdf]]"
 Na potítku: https://www.youtube.com/watch?v=YnEfTjxKnRU

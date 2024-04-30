@@ -1,6 +1,6 @@
 ---
 Druhy: PR
-Read: Never
+Read: Read
 Nationality: 🇫🇷
 File: "![[maly_princ.pdf]]"
 Na potítku: https://www.youtube.com/watch?v=Rv2bfXHpdQI

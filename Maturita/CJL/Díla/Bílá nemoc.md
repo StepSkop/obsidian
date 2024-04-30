@@ -2,7 +2,7 @@
 Author: "[[Karel Čapek]]"
 Druhy: DR
 Nationality: 🇨🇿
-Read: Never
+Read: Read
 File: "![[bila_nemoc.pdf]]"
 Na potítku: https://www.youtube.com/watch?v=y9gwXi-tPpI&t=2s
 ---
