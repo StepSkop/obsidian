@@ -1,6 +1,6 @@
 ---
 Druhy: DR
-Read: Never
+Read: Read
 Nationality: 🇨🇿
 File: "[[ceske_nebe.pdf]]"
 Na potítku: Není na potítku
