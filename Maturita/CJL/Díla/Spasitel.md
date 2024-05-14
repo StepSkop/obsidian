@@ -1,6 +1,6 @@
 ---
 Druhy: PR
-Read: Never
+Read: Read
 Nationality: 🇳🇴
 File: "![[spasitel.pdf]]"
 Na potítku: Není na potítku

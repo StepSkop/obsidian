@@ -1,6 +1,6 @@
 ---
 Druhy: PR
-Read: Never
+Read: Read
 Nationality: 🇵🇱
 File: "![[zaklinac.pdf]]"
 Na potítku: https://www.youtube.com/watch?v=GF_6_iy7lzI
