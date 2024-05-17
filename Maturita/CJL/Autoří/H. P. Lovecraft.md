@@ -1,2 +1,31 @@
-- inspirován [[Edgar Allan Poe]]
+#Author 
+
+- americký básník, spisovatel, žurnalista
+- \*1890, Providence, USA
+- student astronomie, filosofie
+	- zájem o vesmír, výzkum
+- patologický vztah s neurotickou matkou
+	- obviňovala ho z otcova úmrtí
+- předčasně dospělý
+	- nejrannější četba - Homérovy eposy
+- kvůli psychickým a zdravotním problémům není povolán do služby -> [[Domácí literáti]]
+- smrt na rakovinu střev
+- **průkopník moderního horou**
+### Dílo
+- velice inspirován [[Edgar Allan Poe]]
+	- ponuré hororové povídky
+	- vliv omamných látek
+	- "Poe 20. století"
+- **tematika**
+	- neznámé vesmírné entity, mimozemský život
+	- temná božstva
+	- lidská bezvýznamnost, křehkost a maličkost reality co známe
+	- mystifikace
+- *[[Barva z kosmu]]*
+	- 1927
+	- i podle autora nejpovedenější
+	- první publikace v časopise
+- *povídky o Cthulu*
+	- nejvíce proslavené dílo - *Volání Cthulu*
+	- popisující temné síly které obývaly Zemi před lidmi
 - 

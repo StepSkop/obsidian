@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ac064d3d4592a59e",
+        "id": "878f0ba8d61ebb16",
         "type": "tabs",
         "children": [
           {
-            "id": "de1a7d2f5cc71704",
+            "id": "314305f7854d7ba9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJL/Období/Ztracená generace.md",
+                "file": "CJL/Timeline.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b674ae85df5bf634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CJL/Autoří/H. P. Lovecraft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e70e362fa5efc01a",
+            "id": "942126b736c9510e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -40,7 +28,7 @@
             }
           },
           {
-            "id": "e4c30b1371fa2e3f",
+            "id": "2332ded187ff68b6",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -50,13 +38,13 @@
             }
           },
           {
-            "id": "d86d7a86803d221b",
+            "id": "71c85c3747dab7e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJL/Timeline.md",
-                "mode": "preview",
+                "file": "CJL/Díla/Hobbit.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJL/LitList.md",
+                "file": "CJL/Díla/Hobbit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJL/LitList.md",
+                "file": "CJL/Díla/Hobbit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJL/LitList.md"
+                "file": "CJL/Díla/Hobbit.md"
               }
             }
           }
@@ -191,43 +179,43 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e4c30b1371fa2e3f",
+  "active": "71c85c3747dab7e0",
   "lastOpenFiles": [
-    "CJL/Období/Česká meziválečná literatura.md",
     "CJL/LitList.md",
+    "CJL/Díla/Hobbit.md",
     "CJL/Timeline.md",
-    "CJL/Směry/Renesance a Humanismus.md",
-    "CJL/Směry/Klasicismus.md",
-    "CJL/Směry/Realismus.md",
-    "CJL/Směry/Romantismus.md",
-    "CJL/Směry/Dekadence.md",
-    "CJL/Směry/Symbolismus.md",
-    "CJL/Období/Ztracená generace.md",
-    "CJL/Období/Anarchističtí buřiči.md",
-    "CJL/Autoří/Erich Maria Remarque.md",
-    "CJL/Směry/Pragmatismus.md",
-    "CJL/Směry/Surrealismus.md",
-    "CJL/Autoří/H. P. Lovecraft.md",
-    "Untitled",
-    "CJL/Období",
-    "CJL/Směry/Poetismus.md",
-    "CJL/Směry",
-    "CJL/Díla/R.U.R..md",
-    "CJL/Díla/Zaklínač.md",
-    "CJL/Díla/České nebe.md",
-    "CJL/Díla/Kytice.md",
+    "CJL/Díla/Farma zvířat.md",
     "CJL/Díla/Bílá nemoc.md",
+    "CJL/Autoří/Karel Čapek.md",
+    "CJL/Autoří/George Orwell.md",
     "CJL/Díla/Barva z kosmu.md",
-    "CJL/Díla/kkt.md",
-    "CJL/Díla/Saturnin.md",
-    "CJL/Díla/Ostře sledované vlaky.md",
+    "CJL/Obecné pojmy/Personifikace.md",
+    "CJL/Obecné pojmy/Metonymie.md",
+    "CJL/Obecné pojmy/Metafora.md",
+    "CJL/Obecné pojmy/Alegorie.md",
+    "CJL/Směry/Alegorie.md",
+    "Untitled",
+    "CJL/Obecné pojmy",
+    "CJL/Žánry a druhy/Tragédie.md",
+    "CJL/Žánry a druhy/Untitled",
+    "CJL/Žánry a druhy",
+    "CJL/Díla/Podkoní a žák.md",
+    "CJL/Směry/Surrealismus.md",
+    "CJL/Autoří/Andrzej Sapkovski.md",
+    "CJL/Autoří/Cimrmani (L. Smoljak).md",
     "CJL/Autoří/F. S. Fitzgerald.md",
+    "CJL/Autoří/Jo Nesbø.md",
+    "CJL/Autoří/Zdeněk Jirotka.md",
+    "CJL/Autoří/William Shakespeare.md",
+    "CJL/Autoří/Bohumil Hrabal.md",
+    "CJL/Autoří/Erich Maria Remarque.md",
+    "CJL/Autoří/Antoine de Saint-Exupéry.md",
+    "CJL/Autoří/Molière.md",
+    "CJL/Období a skupiny",
+    "CJL/Směry",
     "Materiály/Literatura/ceske_nebe.pdf",
     "Materiály/Literatura/spasitel.pdf",
     "Materiály/Literatura/barva_z_kosmu.pdf",
-    "Materiály/Literatura/barva_z_kosmu.epub",
-    "Materiály/Literatura/ceske_nebe.doc",
-    "Materiály/Literatura/zaklinac.pdf",
-    "Materiály/Literatura/spasitel.epub"
+    "Materiály/Literatura/barva_z_kosmu.epub"
   ]
 }

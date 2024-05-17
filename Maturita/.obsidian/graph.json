@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
@@ -13,18 +13,25 @@
         "a": 1,
         "rgb": 8226556
       }
+    },
+    {
+      "query": "tag:#Author  ",
+      "color": {
+        "a": 1,
+        "rgb": 12737750
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.04427083333333,
+  "nodeSizeMultiplier": 1.27395833333333,
   "lineSizeMultiplier": 0.840104166666667,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.536458333333333,
+  "repelStrength": 18.4375,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.698217308100965,
+  "linkDistance": 285,
+  "scale": 0.3552263542135252,
   "close": true
 }

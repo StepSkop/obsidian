@@ -7,3 +7,10 @@ Na potítku: https://www.youtube.com/watch?v=BrYnLa6ZyEA&t=614s
 Author: "[[Viktor Dyk]]"
 ---
 #Book
+### Literární kontext
+### Téma, motivy
+### Časoprostor
+### Obsah
+### Postavy
+### Kompozice
+### Jazyk

@@ -2,7 +2,6 @@
 cssclasses:
   - body-2
   - line-3
-  - timeline
 ---
 
 ## Časová osa literatury
@@ -28,15 +27,14 @@ cssclasses:
 - [[Romantismus]]
 -  Charakteristika:
 	- Autor:
+		- [[Edgar Allan Poe]]
 		- [[Karel Jaromír Erben]]
 
 - 2\. pol. 19. století
 - [[Realismus]]
 -  Charakteristika:
-	- kritika člověka a poslečnosti
+	- kritika člověka a společnosti
 	- podpora vědy a fyzického výzkumu
-	- Autoři:
-		- [[George Orwell]]
 
 - 1\. pol. 20. století
 - 1SV, [[Ztracená generace]], [[Anarchističtí buřiči]]
@@ -54,7 +52,7 @@ cssclasses:
 	- Volná literatura
 		- nezasaženi válkou přímo
 		- [[H. P. Lovecraft]]
-		- [[J. R. R. Tolkien]]
+		- - [[J. R. R. Tolkien]]
 
 - 1918 - 1938
 - Meziválečné období
@@ -71,6 +69,7 @@ cssclasses:
 -  Charakteristika:
 	- zpětný pohled na válku
 	- Autoři:
+		- [[George Orwell]]
 		- [[Bohumil Hrabal]]
 		- [[Zdeněk Jirotka]]
 	

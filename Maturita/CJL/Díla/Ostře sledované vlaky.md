@@ -7,3 +7,10 @@ Na potítku: https://www.youtube.com/watch?v=SQaX-4TGvf8
 Author: "[[Bohumil Hrabal]]"
 ---
 #Book
+### Literární kontext
+### Téma, motivy
+### Časoprostor
+### Obsah
+### Postavy
+### Kompozice
+### Jazyk

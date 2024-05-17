@@ -66,7 +66,7 @@ columns:
     label: File
     key: File
     id: File
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -88,7 +88,7 @@ columns:
     label: Na potítku
     key: Na potítku
     id: Na potítku
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -109,7 +109,7 @@ columns:
     label: Read
     key: Read
     id: Read
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -164,7 +164,7 @@ columns:
     key: Druhy
     id: Druhy
     label: Druhy
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -190,7 +190,7 @@ columns:
     key: Finished
     id: Finished
     label: Finished
-    position: 8
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -203,6 +203,27 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  Year:
+    input: text
+    accessorKey: Year
+    key: Year
+    id: Year
+    label: Year
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 64
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      content_alignment: text-align-left
 config:
   remove_field_when_delete_column: false
   cell_size: normal

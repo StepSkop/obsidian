@@ -7,3 +7,10 @@ Na potítku: https://www.youtube.com/watch?v=eqILtkQ4seI
 Author: "[[William Shakespeare]]"
 ---
 #Book
+### Literární kontext
+### Téma, motivy
+### Časoprostor
+### Obsah
+### Postavy
+### Kompozice
+### Jazyk
