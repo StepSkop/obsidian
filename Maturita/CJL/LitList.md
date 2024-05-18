@@ -144,8 +144,8 @@ columns:
     csvCandidate: true
     position: 1
     isHidden: false
-    sortIndex: 0
-    isSorted: true
+    sortIndex: -1
+    isSorted: false
     isSortedDesc: false
     width: 248
     config:
@@ -212,8 +212,10 @@ columns:
     position: 4
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 0
     width: 64
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true

@@ -6,6 +6,7 @@ File: "![[hobbit.pdf]]"
 Na potítku: Není na potítku
 Author: "[[J. R. R. Tolkien]]"
 Year: "1937"
+Finished: true
 ---
 #Book
 ### Literární kontext

@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "71c85c3747dab7e0",
+            "id": "67c52d4444f1b5bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CJL/Díla/Hobbit.md",
+                "file": "CJL/Autoří/H. P. Lovecraft.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJL/Díla/Hobbit.md",
+                "file": "CJL/Autoří/H. P. Lovecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJL/Díla/Hobbit.md",
+                "file": "CJL/Autoří/H. P. Lovecraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJL/Díla/Hobbit.md"
+                "file": "CJL/Autoří/H. P. Lovecraft.md"
               }
             }
           }
@@ -179,9 +179,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "71c85c3747dab7e0",
+  "active": "67c52d4444f1b5bc",
   "lastOpenFiles": [
     "CJL/LitList.md",
+    "CJL/Směry/Romantismus.md",
+    "CJL/Díla/Jáma a kyvadlo.md",
+    "CJL/Autoří/Edgar Allan Poe.md",
+    "CJL/Autoří/J. R. R. Tolkien.md",
     "CJL/Díla/Hobbit.md",
     "CJL/Timeline.md",
     "CJL/Díla/Farma zvířat.md",
@@ -207,10 +211,6 @@
     "CJL/Autoří/Jo Nesbø.md",
     "CJL/Autoří/Zdeněk Jirotka.md",
     "CJL/Autoří/William Shakespeare.md",
-    "CJL/Autoří/Bohumil Hrabal.md",
-    "CJL/Autoří/Erich Maria Remarque.md",
-    "CJL/Autoří/Antoine de Saint-Exupéry.md",
-    "CJL/Autoří/Molière.md",
     "CJL/Období a skupiny",
     "CJL/Směry",
     "Materiály/Literatura/ceske_nebe.pdf",

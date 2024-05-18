@@ -11,6 +11,7 @@
 - kvůli psychickým a zdravotním problémům není povolán do služby -> [[Domácí literáti]]
 - smrt na rakovinu střev
 - **průkopník moderního horou**
+	- inspirací pro *Stephena Kinga*
 ### Dílo
 - velice inspirován [[Edgar Allan Poe]]
 	- ponuré hororové povídky
