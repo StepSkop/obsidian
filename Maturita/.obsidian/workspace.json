@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "878f0ba8d61ebb16",
+        "id": "c59db73483dac1b3",
         "type": "tabs",
         "children": [
           {
-            "id": "314305f7854d7ba9",
+            "id": "732309a64aae346d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "172efe8822fdec60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,15 +28,7 @@
             }
           },
           {
-            "id": "942126b736c9510e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2332ded187ff68b6",
+            "id": "38814347faa5084e",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -36,21 +36,9 @@
                 "file": "CJL/LitList.md"
               }
             }
-          },
-          {
-            "id": "67c52d4444f1b5bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CJL/Autoří/H. P. Lovecraft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJL/Autoří/H. P. Lovecraft.md",
+                "file": "CJL/LitList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJL/Autoří/H. P. Lovecraft.md",
+                "file": "CJL/LitList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJL/Autoří/H. P. Lovecraft.md"
+                "file": "CJL/LitList.md"
               }
             }
           }
@@ -179,38 +167,38 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "67c52d4444f1b5bc",
+  "active": "38814347faa5084e",
   "lastOpenFiles": [
+    "CJL/Autoří/George Orwell.md",
     "CJL/LitList.md",
-    "CJL/Směry/Romantismus.md",
-    "CJL/Díla/Jáma a kyvadlo.md",
-    "CJL/Autoří/Edgar Allan Poe.md",
     "CJL/Autoří/J. R. R. Tolkien.md",
-    "CJL/Díla/Hobbit.md",
+    "CJL/Autoří/H. P. Lovecraft.md",
+    "CJL/Autoří/William Shakespeare.md",
+    "CJL/Díla/Romeo a Julie.md",
     "CJL/Timeline.md",
-    "CJL/Díla/Farma zvířat.md",
+    "CJL/Obecné pojmy/Anafora.md",
+    "CJL/Obecné pojmy/Apostrofa.md",
+    "CJL/Směry/Renesance.md",
+    "CJL/Směry/Humanismus.md",
+    "CJL/Autoří/Zdeněk Jirotka.md",
+    "CJL/Díla/Saturnin.md",
+    "CJL/Obecné pojmy/Hyperbola.md",
+    "CJL/Obecné pojmy/Eufemismy.md",
     "CJL/Díla/Bílá nemoc.md",
     "CJL/Autoří/Karel Čapek.md",
-    "CJL/Autoří/George Orwell.md",
-    "CJL/Díla/Barva z kosmu.md",
-    "CJL/Obecné pojmy/Personifikace.md",
-    "CJL/Obecné pojmy/Metonymie.md",
-    "CJL/Obecné pojmy/Metafora.md",
-    "CJL/Obecné pojmy/Alegorie.md",
-    "CJL/Směry/Alegorie.md",
+    "CJL/Autoří/F. S. Fitzgerald.md",
+    "CJL/Období a skupiny/Jazzový věk.md",
+    "CJL/Díla/Velký Gatsby.md",
+    "CJL/Autoří/Jo Nesbø.md",
+    "CJL/Díla/Spasitel.md",
+    "CJL/Díla/České nebe.md",
+    "CJL/Díla/Vyšetřování ztráty třídní knihy.md",
+    "CJL/Díla/Zaklínač - Poslední přání.md",
+    "CJL/Autoří/Andrzej Sapkovski.md",
     "Untitled",
     "CJL/Obecné pojmy",
-    "CJL/Žánry a druhy/Tragédie.md",
     "CJL/Žánry a druhy/Untitled",
     "CJL/Žánry a druhy",
-    "CJL/Díla/Podkoní a žák.md",
-    "CJL/Směry/Surrealismus.md",
-    "CJL/Autoří/Andrzej Sapkovski.md",
-    "CJL/Autoří/Cimrmani (L. Smoljak).md",
-    "CJL/Autoří/F. S. Fitzgerald.md",
-    "CJL/Autoří/Jo Nesbø.md",
-    "CJL/Autoří/Zdeněk Jirotka.md",
-    "CJL/Autoří/William Shakespeare.md",
     "CJL/Období a skupiny",
     "CJL/Směry",
     "Materiály/Literatura/ceske_nebe.pdf",

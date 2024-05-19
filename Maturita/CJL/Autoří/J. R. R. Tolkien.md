@@ -1,5 +1,6 @@
 #Author 
 
+- **John Ronald Reuel Tolkien**
 - anglický spisovatel, zakladatel fantasy
 	- otec fantasy
 		- vytvoření umělých jazyků - elfština...

@@ -5,6 +5,7 @@ Nationality: 🇨🇿
 File: "![[podkoni-a-zak.pdf]]"
 Na potítku: Není na potítku
 Author: (neznámý)
+Year: "1480"
 ---
 #Book
 ### Literární kontext

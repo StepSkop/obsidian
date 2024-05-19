@@ -7,7 +7,7 @@ cssclasses:
 ## Časová osa literatury
 
 - 14\. - 16. století
-- [[Renesance a Humanismus]]
+- [[Renesance]] a [[Humanismus]]
 -  Charakteristika:
 	- počátky knihtisku
 	- Autor:
@@ -49,10 +49,13 @@ cssclasses:
 	- [[Anarchističtí buřiči]]
 		- [[Dekadence]], [[Symbolismus]]
 		- [[Viktor Dyk]]
-	- Volná literatura
+	- [[Domácí literáti]] (volná literatura)
 		- nezasaženi válkou přímo
 		- [[H. P. Lovecraft]]
-		- - [[J. R. R. Tolkien]]
+		- [[J. R. R. Tolkien]]
+	- Humoristická literatura
+		- [[Zdeněk Jirotka]]
+	- [[George Orwell]]
 
 - 1918 - 1938
 - Meziválečné období
@@ -69,16 +72,14 @@ cssclasses:
 -  Charakteristika:
 	- zpětný pohled na válku
 	- Autoři:
-		- [[George Orwell]]
 		- [[Bohumil Hrabal]]
-		- [[Zdeněk Jirotka]]
 	
 - 1945-89
 - Poválečné období
 -  Charakteristika:
 	- komunismus u nás
 	- Autoři:
-		- [[Cimrmani (L. Smoljak)]] - [[Vyšetřování ztráty třídní knihy]] 
+		- [[Cimrmani]] - [[Vyšetřování ztráty třídní knihy]] 
 			- kritika totalitního režimu
 
 - 21\. století
@@ -88,4 +89,4 @@ cssclasses:
 	- Autoři:
 		- [[Jo Nesbø]]
 		- [[Andrzej Sapkovski]]
-		- [[Cimrmani (L. Smoljak)]] - [[České nebe]]
+		- [[Cimrmani]] - [[České nebe]]

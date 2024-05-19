@@ -14,7 +14,7 @@ columns:
     label: Nationality
     key: Nationality
     id: Nationality
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -45,7 +45,7 @@ columns:
     label: Author
     key: Author
     id: Author
-    position: 2
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -66,7 +66,7 @@ columns:
     label: File
     key: File
     id: File
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -88,7 +88,7 @@ columns:
     label: Na potítku
     key: Na potítku
     id: Na potítku
-    position: 8
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -109,7 +109,7 @@ columns:
     label: Read
     key: Read
     id: Read
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -142,7 +142,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 1
+    position: 2
     isHidden: false
     sortIndex: -1
     isSorted: false
@@ -164,7 +164,7 @@ columns:
     key: Druhy
     id: Druhy
     label: Druhy
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -190,10 +190,11 @@ columns:
     key: Finished
     id: Finished
     label: Finished
-    position: 9
+    position: 1
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 89
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -209,7 +210,7 @@ columns:
     key: Year
     id: Year
     label: Year
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: 0

@@ -1,5 +1,6 @@
 #Author 
 
+- **Howard Phillips Lovecraft**
 - americký básník, spisovatel, žurnalista
 - \*1890, Providence, USA
 - student astronomie, filosofie
@@ -26,7 +27,7 @@
 	- 1927
 	- i podle autora nejpovedenější
 	- první publikace v časopise
-- *povídky o Cthulu*
+- povídky o *Cthulu*
 	- nejvíce proslavené dílo - *Volání Cthulu*
 	- popisující temné síly které obývaly Zemi před lidmi
 - 
