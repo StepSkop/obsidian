@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33a4860b86a833a5",
+        "id": "563e5f39985c9024",
         "type": "tabs",
         "children": [
           {
-            "id": "fa35e30dec1083e5",
+            "id": "0db0ffaca2b36853",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "3e939c9dbe343578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -152,11 +140,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "fa35e30dec1083e5",
+  "active": "0db0ffaca2b36853",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
     "PVA/1. Teorie programování a paradigmata.md",
-    "CJL/Autoři/J. R. R. Tolkien.md",
     "PVA",
     "CJL/Žánry a druhy/Tragédie.md",
     "CJL/Obecné pojmy/Zvukomalba.md",
@@ -181,6 +169,7 @@
     "CJL/Směry/Poetismus.md",
     "CJL/Směry/Novoromantismus.md",
     "CJL/Směry/Klasicismus.md",
+    "Untitled",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
     "CJL/Žánry a druhy",
@@ -188,7 +177,6 @@
     "CJL/Směry",
     "Materiály/Literatura/ceske_nebe.pdf",
     "Materiály/Literatura/spasitel.pdf",
-    "Materiály/Literatura/barva_z_kosmu.pdf",
-    "Materiály/Literatura/barva_z_kosmu.epub"
+    "Materiály/Literatura/barva_z_kosmu.pdf"
   ]
 }
