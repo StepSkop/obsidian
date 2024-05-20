@@ -54,8 +54,8 @@ Finished: true
 ### Kompozice
 - **Literární druh**: *epika*
 - **Literární žánr**: *krimi román*
-- několik dějových linek
-	- prokládání úryvků ze *Stankicova* předchozího života
+- několik dějových linek - paralelní postup 
+	- prokládání úryvků ze *Stankicova* předchozího života - retrospektiva
 - složitá zápletka
 - kapitoly
 ### Jazyk

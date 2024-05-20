@@ -1,0 +1,7 @@
+- od poloviny 19. stol.
+- kritika [[Romantismus|romantismu]], [[Symbolismus|symbolism]], [[Alegorie|alegorie]]
+	- hledání *reálných* hodnot
+- žánry *román a povídka*
+- snaha o objektivní narativ
+- založení na pravdě, v kapitalistické společnosti
+- *Daniel Defoe* - Robinsonův ostrov

@@ -5,7 +5,7 @@
 - americký spisovatel a scénárista
 	- [[Jazzový věk]]
 	- nejvýznamnější autor [[Ztracená generace|ztracené generace]]
-		- přítel *Ernesta Hemingwaye*
+		- přítel *Ernesta Hemingwaye* (po válce)
 - povolán do armády za 1. SV
 	- ve výcvikovém táboře poznává svou ženu -> podobné vlastnosti jako Daisy z [[Velký Gatsby]]
 - scénárista v Hollywoodu

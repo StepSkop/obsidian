@@ -1,0 +1,8 @@
+- navazuje na [[romantismus]]
+	- ve Francii od 70. 19. stol
+- odmítání materialismu a racionalismu
+- symbol, metafora 
+- cíl vyjádřit pouze tušené vztahy a významy
+- obrazná pojmenování, mystifikace
+- základ pro *impresionismus*
+- tajemno

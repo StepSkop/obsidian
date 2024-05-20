@@ -9,7 +9,7 @@
 	- obviňovala ho z otcova úmrtí
 - předčasně dospělý
 	- nejrannější četba - Homérovy eposy
-- kvůli psychickým a zdravotním problémům není povolán do služby -> [[Domácí literáti]]
+- kvůli psychickým a zdravotním problémům není povolán do služby -> nezasažen válkou
 - smrt na rakovinu střev
 - **průkopník moderního horou**
 	- inspirací pro *Stephena Kinga*

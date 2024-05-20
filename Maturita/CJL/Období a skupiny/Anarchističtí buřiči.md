@@ -1,0 +1,16 @@
+- přelom 19. a 20. století
+- "básníci života a vzdoru"
+- vrcholící [[symbolismus]] a [[dekadence]]
+- ovlivněni filosofií *Fridricha Nietzscheho*
+	- přirozená láska
+	- kritika tradičního manželství
+	- detabuizace sexuality
+	- -> bohémský život
+- antimilitarismus
+- vitalismus
+	- oslava života a přírody
+- slang, vulgarismy
+- *[[Viktor Dyk]]*
+	- hlavní představitel
+- *Fráňa Šrámek*
+- *František Gellner*

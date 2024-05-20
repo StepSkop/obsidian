@@ -8,30 +8,44 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Book  ",
+      "query": "path:CJL/Autoří  ",
       "color": {
         "a": 1,
-        "rgb": 8226556
+        "rgb": 14059356
       }
     },
     {
-      "query": "tag:#Author  ",
+      "query": "path:CJL/Díla  ",
       "color": {
         "a": 1,
-        "rgb": 12737750
+        "rgb": 13880333
+      }
+    },
+    {
+      "query": "path:\"CJL/Období a skupiny\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9264342
+      }
+    },
+    {
+      "query": "path:CJL/Směry  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1.27395833333333,
-  "lineSizeMultiplier": 0.840104166666667,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.41680942184154,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.536458333333333,
-  "repelStrength": 18.4375,
-  "linkStrength": 1,
-  "linkDistance": 285,
-  "scale": 0.3552263542135295,
+  "centerStrength": 0.331548893647395,
+  "repelStrength": 8.68665239114918,
+  "linkStrength": 0.148822269807281,
+  "linkDistance": 30,
+  "scale": 0.3330377262638857,
   "close": true
 }

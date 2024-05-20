@@ -1,0 +1,7 @@
+ - 20. a 30. léta 20. století
+ - v Americe
+ - doba poválečného uvolnění
+	 - vynahrazování války
+ - *[[F. S. Fitzgerald]]*
+	 - *[[Velký Gatsby]]*
+	 - *Povídky z Jazzového věku*

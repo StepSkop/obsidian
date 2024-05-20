@@ -14,7 +14,6 @@ Finished: true
 - Další autoři (ztracená generace):
 	- *E. Hemingway* - *Stařec a moře*
 	- *[[Erich Maria Remarque]]* - *[[Na západní frontě klid]]*
-	- *[[Antoine de Saint-Exupéry]]* - *[[Malý princ]]*
 ### Téma, motivy
 - touha dosáhnout snu a deziluze
 	- Gatsby má vše co chtějí ostatní, ale Daisy kterou chce nejvíce nemá
@@ -63,7 +62,6 @@ Finished: true
 - **Literární žánr**: *milostný román*
 - vypravěčova retrospektivní vzpomínka na léto
 	- Nick Carraway
-- chronologický děj
 ### Jazyk
 - ich-forma
 - spisovný jazyk

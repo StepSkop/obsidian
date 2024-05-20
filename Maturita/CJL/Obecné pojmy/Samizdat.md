@@ -1,0 +1,9 @@
+- způsob obcházení cenzury v represivních režimech
+- opisování zakázané literatury
+	- průklepový papír
+	- kopírky jsou pod dohledem
+- ilegální
+- šíření zakázané literatury
+- v Čechách
+	- za komunistického režimu
+	- *[[George Orwell]]* a skoro všechna západní literatura

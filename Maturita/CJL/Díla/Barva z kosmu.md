@@ -54,8 +54,7 @@ Year: "1927"
 ### Kompozice
 - **Literární druh**: *epika*
 - **Literární žánr**: *povídka*
-- retrospektivní vyprávění - 3. osoba (er-forma) (většinou)
-- chronologický lineární děj
+- retrospektivní vyprávění - 3. osoba (er-forma) (většinou) + chronologický lineární děj
 - expozice:
 	- čtenář je seznámen s tím že se v oblasti něco stalo
 	- cíl vypravěče (zeměměřiče) zmapovat oblast před zatopením

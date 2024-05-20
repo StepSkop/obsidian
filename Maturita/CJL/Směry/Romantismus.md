@@ -1,0 +1,14 @@
+- první polovina 19. stol.
+- odmítání konvencí a zásad
+	- odmítání [[klasicismus|klasicismu]] a osvícenství
+- reakce na rozpor mezi realitou a [[Humanismus a Renesance|humanistickými]] ideály
+- citovost > rozumovost
+- romantický hrdina
+	- okraj společnosti
+	- nekonvenční
+	- vyčleněnost
+	- kontrastní
+	- *kat, alkoholik...*
+- lyricko-epické žánry
+- *[[Edgar Allan Poe]]*
+- v Čechách *[[Karel Jaromír Erben]]* - [[Kytice z pověstí národních]]

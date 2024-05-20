@@ -48,7 +48,7 @@ Finished: true
 - **Literární druh**: *drama*
 - **Literární žánr**: *komedie*
 - dvě části
-	- seminář
+	- seminář - i restrospektivní
 	- hra
 - chronologický děj
 ### Jazyk

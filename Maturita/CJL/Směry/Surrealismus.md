@@ -1,0 +1,9 @@
+- snaha zachytit sny a myšlenky
+- evropský umělecký směr
+- filosofie *Sigmunda Freuda*
+- "absolutní realita"
+- navazuje na *dadaismus*
+	- negativní odpověď na válku - surrealismu je pozitivní
+- *G. Apollinaire*
+	- první představitel
+- proletářský proud [[Česká meziválečná literatura|české meziválečné literatury]]

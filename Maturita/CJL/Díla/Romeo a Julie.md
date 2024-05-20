@@ -10,7 +10,7 @@ Finished: true
 ---
 #Book
 ### Literární kontext
-- [[renesance]] a [[humanismus]]
+- [[Humanismus a Renesance]]
 - 16. - 17. století
 - Další autoři
 	- *Francois Villon* - *Závěť*

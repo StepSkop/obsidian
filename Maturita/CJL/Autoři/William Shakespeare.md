@@ -1,6 +1,6 @@
 #Author 
 
-- básník a dramatik [[Renesance|renesanční]] Anglie
+- básník a dramatik [[Humanismus a Renesance|renesanční]] Anglie
 - \*1564, Stratford - syn rukavičkáře
 - studium gymnázia
 - spoluzakladatel divadla Globe
@@ -10,10 +10,11 @@
 	- náměty z anglických dějin, antiky i z jeho současnosti
 	- sonety - inspirován *Francescem Petrarcou*
 - vynikající psycholog
+- [[Humanismus a Renesance]]
 ### Dílo
 - náměty z anglických dějin, antiky i z jeho současnosti
 - sonety - inspirován *Francescem Petrarcou*
-- hrdinové jsou silní [[Renesance|renesanční]] lidé
+- hrdinové jsou silní [[Humanismus a Renesance|renesanční]] lidé
 	- žádná náboženská pouta
 - **1. období**:
 	- komedie a první [[tragédie]]

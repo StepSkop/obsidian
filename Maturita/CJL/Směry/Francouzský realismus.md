@@ -1,0 +1,4 @@
+- opak romantismu
+- *Emile Zola*
+- Guy de Maupassant
+- *[[Antoine de Saint-Exupéry]]*

@@ -1,0 +1,14 @@
+- spisovatelé co zažívají 1. světovou válku
+- jejich pocity jsou zobrazovány v dílech
+	- zdeformování představ o budoucnosti
+	- kritika společnosti
+	- psychické problémy
+	- vyřazení ze společnosti
+- "americký sen" a [[jazzový věk]]
+	- nahrazení toho co jim válka vzala:
+		- finanční bohatství
+		- partner
+		- rodina
+- *[[F. S. Fitzgerald]]* - [[Velký Gatsby]]
+- (*[[Erich Maria Remarque]]* - [[Na západní frontě klid]])
+- *Ernest Hemingway* - Stařec a moře

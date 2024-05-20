@@ -7,7 +7,7 @@ cssclasses:
 ## Časová osa literatury
 
 - 14\. - 16. století
-- [[Renesance]] a [[Humanismus]]
+- [[Humanismus a Renesance]]
 -  Charakteristika:
 	- počátky knihtisku
 	- Autor:
@@ -35,27 +35,26 @@ cssclasses:
 -  Charakteristika:
 	- kritika člověka a společnosti
 	- podpora vědy a fyzického výzkumu
-
+	- [[Anarchističtí buřiči]]
+		- [[Dekadence]], [[Symbolismus]]
+		- [[Viktor Dyk]]
 - 1\. pol. 20. století
-- 1SV, [[Ztracená generace]], [[Anarchističtí buřiči]]
+- 1SV, [[Ztracená generace]]
 - Charakteristika:
 	- [[Ztracená generace]]
 		- narozeni těsně před válkou
 		- zkušenosti z války
 		- [[Erich Maria Remarque]]
-		- [[F. S. Fitzgerald]]
-		- [[Antoine de Saint-Exupéry]]
+		- ([[F. S. Fitzgerald]])
 		- John Steinback, Ernest Hemingway
-	- [[Anarchističtí buřiči]]
-		- [[Dekadence]], [[Symbolismus]]
-		- [[Viktor Dyk]]
-	- [[Domácí literáti]] (volná literatura)
-		- nezasaženi válkou přímo
+	- Neovlivněni válkou
 		- [[H. P. Lovecraft]]
-		- [[J. R. R. Tolkien]]
+		- ([[J. R. R. Tolkien]])
+			- byl ve válce, ale dílo to nijak nepoznamenává
 	- Humoristická literatura
 		- [[Zdeněk Jirotka]]
 	- [[George Orwell]]
+	- [[Antoine de Saint-Exupéry]]
 
 - 1918 - 1938
 - Meziválečné období

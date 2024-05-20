@@ -1,0 +1,7 @@
+- tendence poezie na přelomu 19. a 20. století
+- zobrazení technických vymožeností moderního života
+- oslavuje lidskou práci a technologický vývoj
+- reaguje na něj *[[Karel Čapek]]*
+	- "co když lidé přestanou ovládat své vynálezy" -> [[R.U.R.]]
+- *Walt Whitman* - Stébla trávy
+- *Josef Hora* - Básně

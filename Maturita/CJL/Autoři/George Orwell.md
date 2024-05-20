@@ -12,7 +12,7 @@
 ### Dílo
 - realismus, antiutopie (dystopie), satira
 - v komunistickém Československu zakázaná
-- [[Farma zvířat]]
+- [[Farma zvířat]] - [[realismus]]
 - *1984* 
 	- román o světě kde vládne absolutní totalita
 	- dopsáno těsně před smrtí

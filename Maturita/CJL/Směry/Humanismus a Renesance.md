@@ -1,0 +1,16 @@
+- **humanismus**
+	-  od14. stol.
+	- zájem o antickou kulturu a filosofii - antika jako vzor
+		- přejímání děl
+		- ...
+	- cesta k ****renesanci****
+	- nová epocha -> cílený vývoj 
+		- počátky *knihtisku*
+	- Itálie
+	- **Představitelé:**
+		- *Francesco Petrarca*
+		- *Dante Alighieri*
+- **renesance**
+	- 14. - 16. stol
+	- [[tragédie]], komedie
+	- *[[William Shakespeare]]* - [[Romeo a Julie]]

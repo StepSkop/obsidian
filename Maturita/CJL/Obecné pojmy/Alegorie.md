@@ -1,0 +1,5 @@
+- *jinotaj*
+- stylistický útvar
+- doslovné znění vypovídá o něčem jiném -> např. *bajky*
+- [[Farma zvířat]] - *[[George Orwell]]*
+	- popisuje totalitní režim pomocí zvířat na farmě

@@ -5,7 +5,10 @@
 	- žurnalista - vnímání neobyčejnost, zájem o "všechno na světě"
 - \*1890, Náchodsko, Čechy
 - [[Pragmatismus|pragmatik]], demokratický proud [[Česká meziválečná literatura|české meziválečné literatury]]
-- navržen na Nobelovu cenu
+- navržen na Nobelovu cenu (6x)
+- první autor s ohlasem v cizině
+- okouzlen [[Civilismus|civilismem]]
+	- "co by se stalo kdyby lidstvo nedokázalo ovládat své vynálezy?" -> *[[R.U.R.]]*
 - studium na FFUK
 - bratr *Josef Čapek*
 	- spisovatel, malíř

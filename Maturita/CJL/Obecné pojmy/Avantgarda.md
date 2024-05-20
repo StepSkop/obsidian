@@ -1,0 +1,5 @@
+- *"předvoj"*
+- hnutí 1. pol. 20. století
+- označuje umělce jejichž tvorba je vůči jejich době průkopnická
+	- dadaismus
+	- [[surrealismus]]

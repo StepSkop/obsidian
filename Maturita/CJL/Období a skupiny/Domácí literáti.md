@@ -1,1 +1,0 @@
-- umělci tvořící v době války ovšem bez účasti ve válce

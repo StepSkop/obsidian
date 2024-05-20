@@ -1,0 +1,8 @@
+- myšlenkový směr
+- staví do popředí lidské jednání - praxi
+- užitečné -> dobré
+	- až bezohledné
+	- "Pravdivé je to, co je užitečné"
+- v Čechách
+	- *[[Karel Čapek]]*
+	- *Josef Čapek*

@@ -1,0 +1,26 @@
+- od poslední třetiny 18. století
+- pozdvižení českého jazyka, národní uvědomělost
+- završeno vznikem národního státu - 1918 - *Československo*
+## Fáze
+- **Obranná** (1775 - 1805)
+	- počátky divadla, básnictví a žurnalistiky
+	- inspirace [[klasicismus|klasicismem]] a osvícenstvím
+	- generace vědců
+		- hledání historie
+		- *Josef Dobrovský*
+			- *Dějiny české řeči a literatury*
+			- *Zevrubná mluvnice jazyka českého*
+- **Útočná** (1805 - 1830)
+	- doba preromantismus
+	- Jungmannovská generace
+	- rukopisy *Královedvorský* a *Zelenohorský*
+	- *Josef Jungmann*
+		- *Slovník česko-německý*
+	- *František Palacký*
+		- *Dějiny národa českého v Čechách a v Moravě*
+- **Vyvrcholení** (1830 - 1848)
+	- období [[romantismus|romantismu]]
+	- *Božena Němcová* - *Divá Bára, Babička*
+	- *[[Karel Jaromír Erben]]* - [[Kytice z pověstí národních]]
+	- *K. H. Mácha* - *Máj*
+	- *K. H. Borovský* - *Tyrolské elegie, Král Lávra*

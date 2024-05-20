@@ -62,6 +62,7 @@ Finished: true
 - er-forma
 - 7 kapitol + 7 "hlasů rozumu"
 	- 7 povídek
+- chronologický a pralelní
 ### Jazyk
 - místy nespisovný jazyk
 - archaismy a vulgarismy (autor se jich nebojí :) )

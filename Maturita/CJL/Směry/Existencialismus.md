@@ -1,0 +1,6 @@
+- svoboda x odpovědnost
+- člověk = svobodně jednající člověk
+- filosofie existence
+	- klady a zápory svobody
+	- člověk je na všechno sám
+- svobodnější = odpovědnější

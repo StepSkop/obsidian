@@ -66,7 +66,7 @@ Finished: true
 - **Literární žánr**: *výchovná komedie*
 - dvě části
 	- Seminář
-		- seznámení s nalezením hry
+		- seznámení s nalezením hry - retrospektiva
 			- Šanon v cukrovaru
 		- okolnosti od jednotlivých členů
 			- Jména Radeckého

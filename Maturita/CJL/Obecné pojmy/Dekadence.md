@@ -1,0 +1,12 @@
+- *"úpadek"*
+- dekadentní myšlení
+	- pocit marnosti, prázdnoty a nudy
+	- zklamání
+- sex, alkohol, drogy
+- bohémství
+- morbidita
+- protíná se se [[Symbolismus|symbolismem]]
+- *Oscar Wilde, [[Edgar Allan Poe]], Verlaine, Baudelaire*
+
+- v Čechách
+	- [[anarchističtí buřiči]]

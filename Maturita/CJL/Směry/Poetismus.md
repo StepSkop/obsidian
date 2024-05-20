@@ -1,0 +1,7 @@
+- československý směr 20. let. 20. stol.
+- [[Avantgarda|avantgardní]] směr
+- oproštění od politiky
+- optimistický pohled na svět
+- proletářská poezie [[Česká meziválečná literatura|české meziválečné literatury]]
+- *Jaroslav Seifert*
+- *Vladislav Vančura*
