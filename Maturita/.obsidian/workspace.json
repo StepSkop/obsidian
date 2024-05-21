@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "PVA/6. Jednorozměrné a vícerozměrné pole.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c309e59899728bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "PVA/4. Řízení toku programu.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PVA/4. Řízení toku programu.md",
+                "file": "PVA/6. Jednorozměrné a vícerozměrné pole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PVA/4. Řízení toku programu.md",
+                "file": "PVA/6. Jednorozměrné a vícerozměrné pole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PVA/4. Řízení toku programu.md"
+                "file": "PVA/6. Jednorozměrné a vícerozměrné pole.md"
               }
             }
           }
@@ -150,11 +162,13 @@
   },
   "active": "fa35e30dec1083e5",
   "lastOpenFiles": [
-    "PVA/3. Operátory.md",
     "PVA/4. Řízení toku programu.md",
-    "Untitled.md",
+    "PVA/6. Jednorozměrné a vícerozměrné pole.md",
+    "PVA/5. Náhodná čísla.md",
     "PVA/1. Teorie programování a paradigmata.md",
     "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
+    "PVA/3. Operátory.md",
+    "Untitled.md",
     "CJL/Autoři/J. R. R. Tolkien.md",
     "PVA",
     "CJL/Žánry a druhy/Tragédie.md",
@@ -175,8 +189,6 @@
     "CJL/Směry/Symbolismus.md",
     "CJL/Směry/Surrealismus.md",
     "CJL/Směry/Romantismus.md",
-    "CJL/Směry/Realismus.md",
-    "CJL/Směry/Pragmatismus.md",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
     "CJL/Žánry a druhy",
