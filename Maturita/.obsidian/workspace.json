@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa35e30dec1083e5",
+            "id": "4a43d6dca934ca9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PVA/6. Jednorozměrné a vícerozměrné pole.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c309e59899728bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PVA/4. Řízení toku programu.md",
+                "file": "PVA/8. Výjimky.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PVA/6. Jednorozměrné a vícerozměrné pole.md",
+                "file": "PVA/8. Výjimky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PVA/6. Jednorozměrné a vícerozměrné pole.md",
+                "file": "PVA/8. Výjimky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PVA/6. Jednorozměrné a vícerozměrné pole.md"
+                "file": "PVA/8. Výjimky.md"
               }
             }
           }
@@ -160,35 +148,35 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "fa35e30dec1083e5",
+  "active": "4a43d6dca934ca9d",
   "lastOpenFiles": [
+    "CJL/Díla/Krysař.md",
+    "CJL/LitList.md",
+    "PVA/8. Výjimky.md",
+    "CJL/Timeline.md",
+    "PVA/7. Kolekce, dešifrování.md",
+    "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
     "PVA/4. Řízení toku programu.md",
     "PVA/6. Jednorozměrné a vícerozměrné pole.md",
-    "PVA/5. Náhodná čísla.md",
-    "PVA/1. Teorie programování a paradigmata.md",
-    "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
-    "PVA/3. Operátory.md",
-    "Untitled.md",
-    "CJL/Autoři/J. R. R. Tolkien.md",
-    "PVA",
-    "CJL/Žánry a druhy/Tragédie.md",
-    "CJL/Obecné pojmy/Zvukomalba.md",
-    "CJL/Obecné pojmy/Synekdocha.md",
-    "CJL/Obecné pojmy/Samizdat.md",
-    "CJL/Obecné pojmy/Personifikace.md",
-    "CJL/Obecné pojmy/Metonymie.md",
-    "CJL/Obecné pojmy/Metafora.md",
-    "CJL/Obecné pojmy/Hyperbola.md",
-    "CJL/Obecné pojmy/Eufemismy.md",
-    "CJL/Obecné pojmy/Epitet.md",
-    "CJL/Obecné pojmy/Dekadence.md",
-    "CJL/Obecné pojmy/Avantgarda.md",
-    "CJL/Obecné pojmy/Apostrofa.md",
-    "CJL/Obecné pojmy/Anafora.md",
-    "CJL/Obecné pojmy/Alegorie.md",
-    "CJL/Směry/Symbolismus.md",
+    "CJL/Díla/Kytice z pověstí národních.md",
+    "CJL/Období a skupiny/Americká gotická literatura.md",
+    "CJL/Období a skupiny/Anarchističtí buřiči.md",
+    "CJL/Období a skupiny/Jazzový věk.md",
+    "CJL/Období a skupiny/Ztracená generace.md",
+    "CJL/Období a skupiny/Česká meziválečná literatura.md",
+    "CJL/Období a skupiny/Národní obrození.md",
+    "CJL/Směry/Novoromantismus.md",
+    "CJL/Směry/Humanismus a Renesance.md",
     "CJL/Směry/Surrealismus.md",
-    "CJL/Směry/Romantismus.md",
+    "CJL/Směry/Poetismus.md",
+    "CJL/Směry/Klasicismus.md",
+    "CJL/Směry/Existencialismus.md",
+    "CJL/Směry/Civilismus.md",
+    "CJL/Obecné pojmy/Eufemismy.md",
+    "CJL/Obecné pojmy/Avantgarda.md",
+    "CJL/Obecné pojmy/Alegorie.md",
+    "CJL/Obecné pojmy/Anafora.md",
+    "PVA",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
     "CJL/Žánry a druhy",

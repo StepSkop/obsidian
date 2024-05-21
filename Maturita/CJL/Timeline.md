@@ -2,6 +2,7 @@
 cssclasses:
   - body-2
   - line-3
+  - timeline
 ---
 
 ## Časová osa literatury

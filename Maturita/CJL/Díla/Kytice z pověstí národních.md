@@ -5,8 +5,9 @@ Nationality: 🇨🇿
 File: "[[kytice.pdf]]"
 Na potítku: https://www.youtube.com/watch?v=UDEQsXg5g-Y
 Author: "[[Karel Jaromír Erben]]"
-Year: "1853"
+obsidian://open?vault=Maturita&file=CJL%2FTimelineYear: "1853"
 Finished: true
+Year: "1853"
 ---
 #Book
 ### Literární kontext
