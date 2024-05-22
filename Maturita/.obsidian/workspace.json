@@ -11,11 +11,9 @@
             "id": "4a43d6dca934ca9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "CJL/Timeline.md",
-                "mode": "preview",
-                "source": false
+                "file": "CJL/🔸Seznam🔸.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJL/Timeline.md",
+                "file": "CJL/🔸Seznam🔸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJL/Timeline.md",
+                "file": "CJL/🔸Seznam🔸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJL/Timeline.md"
+                "file": "CJL/🔸Seznam🔸.md"
               }
             }
           }
@@ -150,8 +148,8 @@
   },
   "active": "4a43d6dca934ca9d",
   "lastOpenFiles": [
-    "CJL/🔸Seznam🔸.md",
     "CJL/Timeline.md",
+    "CJL/🔸Seznam🔸.md",
     "PVA/8. Výjimky.md",
     "CJL/Díla/Krysař.md",
     "PVA/7. Kolekce, dešifrování.md",
