@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PVA/13. Metody.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c1a7b603336fdc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PVA/12. Práce s textovými soubory.md",
+                "file": "PVA/15. Abstraktní třídy, dědičnost, interface.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PVA/12. Práce s textovými soubory.md",
+                "file": "PVA/15. Abstraktní třídy, dědičnost, interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PVA/12. Práce s textovými soubory.md",
+                "file": "PVA/15. Abstraktní třídy, dědičnost, interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PVA/12. Práce s textovými soubory.md"
+                "file": "PVA/15. Abstraktní třídy, dědičnost, interface.md"
               }
             }
           }
@@ -161,10 +148,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1c1a7b603336fdc4",
+  "active": "76804e0ea14499c3",
   "lastOpenFiles": [
-    "PVA/11. Regulární výrazy.md",
+    "PVA/14. Třídy, konstruktory zapouzdření.md",
+    "PVA/15. Abstraktní třídy, dědičnost, interface.md",
+    "PVA/13. Metody.md",
     "PVA/12. Práce s textovými soubory.md",
+    "PVA/11. Regulární výrazy.md",
     "PVA/10. Stringy.md",
     "PVA/9. Datum a Čas, XOR.md",
     "PVA/8. Výjimky.md",
@@ -174,7 +164,6 @@
     "PVA/4. Řízení toku programu.md",
     "PVA/3. Operátory.md",
     "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
-    "PVA/13. Metody.md",
     "CJL/🔸Seznam🔸.md",
     "CJL/Timeline.md",
     "CJL/Díla/Krysař.md",
@@ -187,8 +176,6 @@
     "CJL/Období a skupiny/Národní obrození.md",
     "CJL/Směry/Novoromantismus.md",
     "CJL/Směry/Humanismus a Renesance.md",
-    "CJL/Směry/Surrealismus.md",
-    "CJL/Směry/Poetismus.md",
     "PVA",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
