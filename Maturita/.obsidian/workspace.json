@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PVA/8. Výjimky.md",
-                "mode": "source",
+                "file": "CJL/Timeline.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PVA/8. Výjimky.md",
+                "file": "CJL/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PVA/8. Výjimky.md",
+                "file": "CJL/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PVA/8. Výjimky.md"
+                "file": "CJL/Timeline.md"
               }
             }
           }
@@ -150,10 +150,10 @@
   },
   "active": "4a43d6dca934ca9d",
   "lastOpenFiles": [
-    "CJL/Díla/Krysař.md",
-    "CJL/LitList.md",
-    "PVA/8. Výjimky.md",
+    "CJL/🔸Seznam🔸.md",
     "CJL/Timeline.md",
+    "PVA/8. Výjimky.md",
+    "CJL/Díla/Krysař.md",
     "PVA/7. Kolekce, dešifrování.md",
     "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
     "PVA/4. Řízení toku programu.md",
