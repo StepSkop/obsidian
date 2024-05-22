@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PVA/11. Regulární výrazy.md",
+                "file": "PVA/12. Práce s textovými soubory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PVA/11. Regulární výrazy.md",
+                "file": "PVA/12. Práce s textovými soubory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PVA/11. Regulární výrazy.md",
+                "file": "PVA/12. Práce s textovými soubory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PVA/11. Regulární výrazy.md"
+                "file": "PVA/12. Práce s textovými soubory.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "76804e0ea14499c3",
   "lastOpenFiles": [
-    "PVA/3. Operátory.md",
+    "PVA/12. Práce s textovými soubory.md",
     "PVA/11. Regulární výrazy.md",
+    "PVA/3. Operátory.md",
     "PVA/10. Stringy.md",
     "PVA/9. Datum a Čas, XOR.md",
     "PVA/7. Kolekce, dešifrování.md",
@@ -175,7 +176,6 @@
     "CJL/Směry/Poetismus.md",
     "CJL/Směry/Klasicismus.md",
     "CJL/Směry/Existencialismus.md",
-    "CJL/Směry/Civilismus.md",
     "PVA",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
