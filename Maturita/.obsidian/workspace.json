@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "33a4860b86a833a5",
+        "id": "e8573c75a334b6e3",
         "type": "tabs",
         "children": [
           {
-            "id": "4a43d6dca934ca9d",
+            "id": "76804e0ea14499c3",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "CJL/🔸Seznam🔸.md"
+                "file": "PVA/11. Regulární výrazy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CJL/🔸Seznam🔸.md",
+                "file": "PVA/11. Regulární výrazy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CJL/🔸Seznam🔸.md",
+                "file": "PVA/11. Regulární výrazy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CJL/🔸Seznam🔸.md"
+                "file": "PVA/11. Regulární výrazy.md"
               }
             }
           }
@@ -146,13 +148,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4a43d6dca934ca9d",
+  "active": "76804e0ea14499c3",
   "lastOpenFiles": [
-    "CJL/Timeline.md",
+    "PVA/3. Operátory.md",
+    "PVA/11. Regulární výrazy.md",
+    "PVA/10. Stringy.md",
+    "PVA/9. Datum a Čas, XOR.md",
+    "PVA/7. Kolekce, dešifrování.md",
     "CJL/🔸Seznam🔸.md",
+    "CJL/Timeline.md",
     "PVA/8. Výjimky.md",
     "CJL/Díla/Krysař.md",
-    "PVA/7. Kolekce, dešifrování.md",
     "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
     "PVA/4. Řízení toku programu.md",
     "PVA/6. Jednorozměrné a vícerozměrné pole.md",
@@ -170,10 +176,6 @@
     "CJL/Směry/Klasicismus.md",
     "CJL/Směry/Existencialismus.md",
     "CJL/Směry/Civilismus.md",
-    "CJL/Obecné pojmy/Eufemismy.md",
-    "CJL/Obecné pojmy/Avantgarda.md",
-    "CJL/Obecné pojmy/Alegorie.md",
-    "CJL/Obecné pojmy/Anafora.md",
     "PVA",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
