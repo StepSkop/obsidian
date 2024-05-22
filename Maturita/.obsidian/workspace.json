@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "PVA/13. Metody.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c1a7b603336fdc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "PVA/12. Práce s textovými soubory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,21 +161,23 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "76804e0ea14499c3",
+  "active": "1c1a7b603336fdc4",
   "lastOpenFiles": [
-    "PVA/12. Práce s textovými soubory.md",
     "PVA/11. Regulární výrazy.md",
-    "PVA/3. Operátory.md",
+    "PVA/12. Práce s textovými soubory.md",
     "PVA/10. Stringy.md",
     "PVA/9. Datum a Čas, XOR.md",
+    "PVA/8. Výjimky.md",
     "PVA/7. Kolekce, dešifrování.md",
+    "PVA/6. Jednorozměrné a vícerozměrné pole.md",
+    "PVA/5. Náhodná čísla.md",
+    "PVA/4. Řízení toku programu.md",
+    "PVA/3. Operátory.md",
+    "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
+    "PVA/13. Metody.md",
     "CJL/🔸Seznam🔸.md",
     "CJL/Timeline.md",
-    "PVA/8. Výjimky.md",
     "CJL/Díla/Krysař.md",
-    "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
-    "PVA/4. Řízení toku programu.md",
-    "PVA/6. Jednorozměrné a vícerozměrné pole.md",
     "CJL/Díla/Kytice z pověstí národních.md",
     "CJL/Období a skupiny/Americká gotická literatura.md",
     "CJL/Období a skupiny/Anarchističtí buřiči.md",
@@ -174,8 +189,6 @@
     "CJL/Směry/Humanismus a Renesance.md",
     "CJL/Směry/Surrealismus.md",
     "CJL/Směry/Poetismus.md",
-    "CJL/Směry/Klasicismus.md",
-    "CJL/Směry/Existencialismus.md",
     "PVA",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
