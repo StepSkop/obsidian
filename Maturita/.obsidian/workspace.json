@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PVA/15. Abstraktní třídy, dědičnost, interface.md",
+                "file": "PVA/20. Steganografie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PVA/15. Abstraktní třídy, dědičnost, interface.md",
+                "file": "PVA/20. Steganografie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PVA/15. Abstraktní třídy, dědičnost, interface.md",
+                "file": "PVA/20. Steganografie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PVA/15. Abstraktní třídy, dědičnost, interface.md"
+                "file": "PVA/20. Steganografie.md"
               }
             }
           }
@@ -150,8 +150,19 @@
   },
   "active": "76804e0ea14499c3",
   "lastOpenFiles": [
+    "PVA/19. Hashování, autentizace.md",
+    "PVA/20. Steganografie.md",
+    "PVA/18. Asymetrické šifrování.md",
+    "PVA/17. Symetrické šifrování.md",
+    "CJL/Díla/Farma zvířat.md",
+    "CJL/Autoři/George Orwell.md",
+    "PVA/15. Abstraktní třídy, dědičnost.md",
+    "PVA/4. Řízení toku programu.md",
+    "PVA/6. Jednorozměrné a vícerozměrné pole.md",
+    "PVA/1. Teorie programování a paradigmata.md",
+    "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
+    "PVA/16. Události a jejich použití.md",
     "PVA/14. Třídy, konstruktory zapouzdření.md",
-    "PVA/15. Abstraktní třídy, dědičnost, interface.md",
     "PVA/13. Metody.md",
     "PVA/12. Práce s textovými soubory.md",
     "PVA/11. Regulární výrazy.md",
@@ -159,23 +170,12 @@
     "PVA/9. Datum a Čas, XOR.md",
     "PVA/8. Výjimky.md",
     "PVA/7. Kolekce, dešifrování.md",
-    "PVA/6. Jednorozměrné a vícerozměrné pole.md",
     "PVA/5. Náhodná čísla.md",
-    "PVA/4. Řízení toku programu.md",
     "PVA/3. Operátory.md",
-    "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
     "CJL/🔸Seznam🔸.md",
     "CJL/Timeline.md",
     "CJL/Díla/Krysař.md",
     "CJL/Díla/Kytice z pověstí národních.md",
-    "CJL/Období a skupiny/Americká gotická literatura.md",
-    "CJL/Období a skupiny/Anarchističtí buřiči.md",
-    "CJL/Období a skupiny/Jazzový věk.md",
-    "CJL/Období a skupiny/Ztracená generace.md",
-    "CJL/Období a skupiny/Česká meziválečná literatura.md",
-    "CJL/Období a skupiny/Národní obrození.md",
-    "CJL/Směry/Novoromantismus.md",
-    "CJL/Směry/Humanismus a Renesance.md",
     "PVA",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
