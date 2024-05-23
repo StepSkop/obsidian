@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KBB/5. Síťování v linuxu.md",
+                "file": "KBB/6. Průzkum sítě.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KBB/5. Síťování v linuxu.md",
+                "file": "KBB/6. Průzkum sítě.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KBB/5. Síťování v linuxu.md",
+                "file": "KBB/6. Průzkum sítě.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KBB/5. Síťování v linuxu.md"
+                "file": "KBB/6. Průzkum sítě.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "6a7e91bd5e2615ba",
   "lastOpenFiles": [
-    "KBB/4. Instalace software.md",
+    "KBB/7. Analýza síťového provozu.md",
+    "KBB/6. Průzkum sítě.md",
     "KBB/5. Síťování v linuxu.md",
+    "KBB/4. Instalace software.md",
     "KBB/3. Oprávnění.md",
     "KBB/2. Práce se soubory.md",
     "KBB/1. Textové rozhraní.md",
@@ -175,8 +177,6 @@
     "PVA/10. Stringy.md",
     "PVA/9. Datum a Čas, XOR.md",
     "PVA/8. Výjimky.md",
-    "PVA/7. Kolekce, dešifrování.md",
-    "PVA/5. Náhodná čísla.md",
     "PVA",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
