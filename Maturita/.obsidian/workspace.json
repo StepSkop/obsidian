@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed30a9c4907c1758",
+        "id": "1218f30273a60713",
         "type": "tabs",
         "children": [
           {
-            "id": "6a7e91bd5e2615ba",
+            "id": "bc19399eadebabf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KBB/6. Průzkum sítě.md",
+                "file": "KBB/10. Bash scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KBB/6. Průzkum sítě.md",
+                "file": "KBB/10. Bash scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KBB/6. Průzkum sítě.md",
+                "file": "KBB/10. Bash scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KBB/6. Průzkum sítě.md"
+                "file": "KBB/10. Bash scripting.md"
               }
             }
           }
@@ -148,8 +148,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6a7e91bd5e2615ba",
+  "active": "bc19399eadebabf4",
   "lastOpenFiles": [
+    "KBB/10. Bash scripting.md",
+    "KBB/8. Síťové protokoly.md",
+    "KBB/9. Síťové útoky.md",
+    "Materiály/KBB/SSH_Tunneling.png",
+    "Materiály/KBB",
     "KBB/7. Analýza síťového provozu.md",
     "KBB/6. Průzkum sítě.md",
     "KBB/5. Síťování v linuxu.md",
@@ -174,9 +179,6 @@
     "PVA/13. Metody.md",
     "PVA/12. Práce s textovými soubory.md",
     "PVA/11. Regulární výrazy.md",
-    "PVA/10. Stringy.md",
-    "PVA/9. Datum a Čas, XOR.md",
-    "PVA/8. Výjimky.md",
     "PVA",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
@@ -184,7 +186,6 @@
     "CJL/Období a skupiny",
     "CJL/Směry",
     "Materiály/Literatura/ceske_nebe.pdf",
-    "Materiály/Literatura/spasitel.pdf",
-    "Materiály/Literatura/barva_z_kosmu.pdf"
+    "Materiály/Literatura/spasitel.pdf"
   ]
 }
