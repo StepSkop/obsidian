@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1218f30273a60713",
+        "id": "159ddfb2befb1e02",
         "type": "tabs",
         "children": [
           {
-            "id": "bc19399eadebabf4",
+            "id": "7f476a34a8c91f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KBB/10. Bash scripting.md",
+                "file": "KBB/15. Firewall.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KBB/10. Bash scripting.md",
+                "file": "KBB/15. Firewall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KBB/10. Bash scripting.md",
+                "file": "KBB/15. Firewall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KBB/10. Bash scripting.md"
+                "file": "KBB/15. Firewall.md"
               }
             }
           }
@@ -148,8 +148,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "bc19399eadebabf4",
+  "active": "7f476a34a8c91f8c",
   "lastOpenFiles": [
+    "KBB/14. Analýza škodlivého software.md",
+    "KBB/15. Firewall.md",
+    "KBB/13. Virtualizace.md",
+    "KBB/12. Asymetrická kryptografie, hash.md",
+    "Materiály/KBB/Digitální podpis.png",
+    "Pasted image 20240524135229.png",
+    "KBB/11. Kryptografie.md",
+    "PVA/20. Steganografie.md",
     "KBB/10. Bash scripting.md",
     "KBB/8. Síťové protokoly.md",
     "KBB/9. Síťové útoky.md",
@@ -162,7 +170,6 @@
     "KBB/3. Oprávnění.md",
     "KBB/2. Práce se soubory.md",
     "KBB/1. Textové rozhraní.md",
-    "PVA/20. Steganografie.md",
     "KBB",
     "PVA/19. Hashování, autentizace.md",
     "PVA/18. Asymetrické šifrování.md",
@@ -174,11 +181,6 @@
     "PVA/6. Jednorozměrné a vícerozměrné pole.md",
     "PVA/1. Teorie programování a paradigmata.md",
     "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
-    "PVA/16. Události a jejich použití.md",
-    "PVA/14. Třídy, konstruktory zapouzdření.md",
-    "PVA/13. Metody.md",
-    "PVA/12. Práce s textovými soubory.md",
-    "PVA/11. Regulární výrazy.md",
     "PVA",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
