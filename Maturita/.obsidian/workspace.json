@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "159ddfb2befb1e02",
+        "id": "b4e291ba8f3041d0",
         "type": "tabs",
         "children": [
           {
-            "id": "7f476a34a8c91f8c",
+            "id": "2128f0c65cab318f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KBB/15. Firewall.md",
+                "file": "KBB/20. IDS a IPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KBB/15. Firewall.md",
+                "file": "KBB/20. IDS a IPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KBB/15. Firewall.md",
+                "file": "KBB/20. IDS a IPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KBB/15. Firewall.md"
+                "file": "KBB/20. IDS a IPS.md"
               }
             }
           }
@@ -148,10 +148,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7f476a34a8c91f8c",
+  "active": "2128f0c65cab318f",
   "lastOpenFiles": [
-    "KBB/14. Analýza škodlivého software.md",
+    "KBB/19. Síťový monitoring.md",
+    "KBB/20. IDS a IPS.md",
+    "KBB/18. Bezpečnost webových technologií.md",
+    "Materiály/KBB/DOM_XSS.png",
+    "KBB/17. Webové technologie.md",
+    "Pasted image 20240525022239.png",
+    "Pasted image 20240525022241.png",
+    "KBB/16. Procesy.md",
     "KBB/15. Firewall.md",
+    "KBB/14. Analýza škodlivého software.md",
     "KBB/13. Virtualizace.md",
     "KBB/12. Asymetrická kryptografie, hash.md",
     "Materiály/KBB/Digitální podpis.png",
@@ -176,11 +184,6 @@
     "PVA/17. Symetrické šifrování.md",
     "CJL/Díla/Farma zvířat.md",
     "CJL/Autoři/George Orwell.md",
-    "PVA/15. Abstraktní třídy, dědičnost.md",
-    "PVA/4. Řízení toku programu.md",
-    "PVA/6. Jednorozměrné a vícerozměrné pole.md",
-    "PVA/1. Teorie programování a paradigmata.md",
-    "PVA/2. Konvence, klíčová slova, datové typy a třídění.md",
     "PVA",
     "CJL/Obecné pojmy",
     "CJL/Žánry a druhy/Untitled",
