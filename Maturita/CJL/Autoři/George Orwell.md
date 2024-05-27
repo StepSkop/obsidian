@@ -7,7 +7,7 @@
 - **kritika totalitarismu** - vyzdvihování **demokratického socialismu**
 	- antifašisus, antikapitalismus, anti-stalinismus
 	- kritika nedemokratických politických tendencí
-- dobrovolník ve španělské občanské válce - vládní strana (marxistické sjednocení)
+- dobrovolník ve španělské občanské válce - vládní strana (marxistické sjednocení) 1936-9
 - neúčast ve 2. SV kvůli tuberkulóze - později smrt
 ### Dílo
 - realismus, antiutopie (dystopie), satira
