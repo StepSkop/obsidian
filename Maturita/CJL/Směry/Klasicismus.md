@@ -1,6 +1,7 @@
 - 17. - 18. století
 - nápodoba antických řeckých a římských autorů
 - [[tragédie]], epos, satira
+- kázeň a rozum
 - především francouzská, anglická a německá literatura
 	- trochu jiný v každé zemi
 	- *[[Molière]]* - [[Lakomec]]

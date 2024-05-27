@@ -2,6 +2,7 @@
 
 - **Jean-Baptiste Poquelin** 
 	- přezdívka *Moliere* aby nepošpinil jméno rodiny <- tvorba v *nízkých* žánrech
+- přítel Ludvíka 14.
 - francouzský [[Klasicismus|klasicistní]] dramatik, herec
 	- komedie a fraška
 	- psaní her a herectví nebylo považováno za solidní zaměstnání
